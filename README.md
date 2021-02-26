@@ -1,4 +1,4 @@
-# nlw04-nodejs-nps
+# NPS
 
 Este projeto foi desenvolvido a partir da trilha Back-End da 4ª edição do NLW#4 ofertado pela [Rocketseat] e ministrado pela professora [Daniele Evangelista][danileao]. 
 
