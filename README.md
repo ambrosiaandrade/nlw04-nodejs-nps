@@ -12,7 +12,7 @@ Este projeto foi desenvolvido a partir da trilha Back-End da 4ª edição do NLW
 ![Shot 0003](https://user-images.githubusercontent.com/70069811/109357268-b68fc100-7860-11eb-8c00-b11d0b6b7756.png)
 
 <p align="center">
-  ![Shot 0004](https://user-images.githubusercontent.com/70069811/109357279-ba234800-7860-11eb-9977-5901b7aa9fd0.png)
+  <img width="600" height="200" src="![Shot 0004](https://user-images.githubusercontent.com/70069811/109357279-ba234800-7860-11eb-9977-5901b7aa9fd0.png)">
 </p>
 
 
