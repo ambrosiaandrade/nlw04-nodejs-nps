@@ -1,9 +1,14 @@
 # nlw04-nodejs-nps
 
-Este projeto foi desenvolvido a partir da trilha Back-End da 4ª edição do NLW#4 ofertado pela [Rocketseat] e ministrado pela professora [Daniele][danileao]. 
+Este projeto foi desenvolvido a partir da trilha Back-End da 4ª edição do NLW#4 ofertado pela [Rocketseat] e ministrado pela professora [Daniele Evangelista][danileao]. 
+
 A minha alteração foi apenas no Front-End, coloquei a responsividade e mudei um pouco o layout. 
 
+------------------------------------------
+
 ## Screenshots :camera:
+
+### As alterações que eu fiz:
 
 <p align="center">
   <p align="inline">
@@ -14,18 +19,18 @@ A minha alteração foi apenas no Front-End, coloquei a responsividade e mudei u
   <img src="/img/Shot%200004.png">
 </p>
 
-### Como estava antes
+### Como estava antes: 
 
 <p align="center">
-  <img scr="/img/nlw%234-mobile.png">
-  <img scr="/img/nlw%234-desktop.png">
+  <img src="/img/nlw4-mobile.png">
+  <img src="/img/nlw4-desktop.png">
 </p>
 
 
 ## Informes do projeto original da Rockseat :rocket:
 
-Veja o [Projeto][project] <br />
-Veja a [Licença][license]
+:file_folder:&nbsp;Veja o [Projeto][project] <br />
+:page_facing_up:&nbsp;Veja a [Licença][license]
 
 <!-- Markdown link & img dfn's -->
 [project]:https://github.com/rocketseat-education/nlw-04-nodejs
