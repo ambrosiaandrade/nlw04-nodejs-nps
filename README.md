@@ -9,6 +9,13 @@ Este projeto foi desenvolvido a partir da trilha Back-End da 4ª edição do NLW
 ![Shot 0004](https://user-images.githubusercontent.com/70069811/109357279-ba234800-7860-11eb-9977-5901b7aa9fd0.png)
 
 
-##Repositório e licença da Rockseat
-https://github.com/rocketseat-education/nlw-04-nodejs
-https://github.com/rocketseat-education/nlw-04-nodejs/blob/main/LICENSE.md
+## Informes do projeto original Rockseat
+Veja o [Projeto][project]
+Veja a [Licença][license]
+
+
+
+<!-- Markdown link & img dfn's -->
+
+[project]:https://github.com/rocketseat-education/nlw-04-nodejs
+[license]:https://github.com/rocketseat-education/nlw-04-nodejs/blob/main/LICENSE.md
