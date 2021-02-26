@@ -1,0 +1,162 @@
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<style>
+    
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&display=swap');
+    
+    body{
+        margin          : 0px;
+        padding         : 0px;
+        background      : #f0e6fd;
+        background-image: linear-gradient(#f0e6fd, #e3dfe9);
+        width           : 100%;
+        height          : 250px;
+        display         : flex;
+        align-items     : center;
+    }
+
+    .container {
+        width          : 100%;
+        justify-content: center;
+        align-items    : center;
+        align-content  : center;
+        display        : flex;
+        flex-direction : column;
+        font-family    : 'Raleway', sans-serif;
+
+    }
+    .value {
+        padding        : 10px;
+        margin         : 2px;
+        background     : #2a363b;
+        color          : #FFF;
+        border-radius  : 6px;
+        width          : 15px;
+        height         : 15px;
+        text-align     : center;
+        text-decoration: none;
+    }
+
+    .value:hover{
+        background: #FFF;
+        color     : #2a363b;
+        transition: 0.3s;
+    }
+
+    .level{ 
+        display        : flex;
+        margin         : 15px;
+        justify-content: space-between;
+        width          : 330px;
+    }
+    .answers {
+        width          : 350px;
+        height         : 40px;
+        margin-bottom  : 15px;
+        display        : flex;
+        justify-content: space-between;
+        align-items    : center;
+    }
+
+    .content1{
+        width: 48%;
+    }
+    .content2{
+        width: 52%;
+    }
+
+    .userName{
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    p{
+        margin: 15px;
+    }
+
+    label{
+        margin-top: 15px;
+    }
+
+
+    @media screen and (max-width: 385px) and (max-width: 414px){
+
+        strong{
+            text-align: center;
+            margin: 0px 15px;
+        }
+
+        .answers{
+            height: 90px;
+            width: 100%;
+            margin: 5px 10px;
+            flex-wrap: wrap;
+            align-items: center;
+            text-align: center;
+        }
+
+        .level{
+            display: none;
+            margin: 15px 0px;
+        }
+
+        .content1{
+            width: 100%;
+        }
+        .content2{
+            width: 100%;
+        }
+    }
+
+    @media screen and (min-width: 415px) and (max-width: 500px){
+
+        strong{
+            text-align: center;
+            margin: 0px 15px;
+        }
+
+        .level{
+            width: 330px;
+        }
+    }
+
+
+</style>
+
+<div class="container">
+    
+    <label>Olá <strong class="userName">{{name}}</strong>! Tudo bem?</label>
+
+    <p>{{title}}</p>
+    
+    <strong>{{description}}</strong>
+
+    <div class="level">
+        <span>Pouco provável</span>
+        <span>Muito provável</span>
+    </div>
+
+
+    <div class = "answers">
+        <div class="content1">
+            <a   class = "value" href = "{{link}}/1?u={{id}}">1</a>
+            <a   class = "value" href = "{{link}}/2?u={{id}}">2</a>
+            <a   class = "value" href = "{{link}}/3?u={{id}}">3</a>
+            <a   class = "value" href = "{{link}}/4?u={{id}}">4</a>
+            <a   class = "value" href = "{{link}}/5?u={{id}}">5</a>
+        </div>
+        <div class="content2">
+            <a   class = "value" href = "{{link}}/6?u={{id}}">6</a>
+            <a   class = "value" href = "{{link}}/7?u={{id}}">7</a>
+            <a   class = "value" href = "{{link}}/8?u={{id}}">8</a>
+            <a   class = "value" href = "{{link}}/9?u={{id}}">9</a>
+            <a   class = "value" href = "{{link}}/10?u={{id}}">10</a>
+        </div>
+    </div>
+
+    <strong>Sua opinião é muito importante para nós</strong>
+
+    <p>Equipe | <strong>NLW</strong></p>
+
+</div>
