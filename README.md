@@ -5,10 +5,15 @@ A minha alteração foi no Front-End, coloquei responsividade e mudei um pouco o
 
 ## Screenshots :camera:
 
+<p align="center">
+  <p align="inline">
+    <img src="/img/Shot%200001.png">
+    &nbsp;
+    <img src="/img/Shot%200002.png">
+  </p>
+  <img src="/img/Shot%200004.png">
+</p>
 
-<img align="center" width="400" height="793" src="/img/Shot%200001.png">
-<img align="center" width="530" height="793" src="/img/Shot%200002.png">
-<img align="center" width="930" height="793" src="/img/Shot%200004.png">
 
 
 ## Informes do projeto original da Rockseat :rocket:
