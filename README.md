@@ -5,9 +5,10 @@ A minha alteração foi no Front-End, coloquei responsividade e mudei um pouco o
 
 ## Screenshots :camera:
 
-![Shot 0001](https://user-images.githubusercontent.com/70069811/109357242-aaa3ff00-7860-11eb-9eb0-dd39431c05bd.png)
-![Shot 0002](https://user-images.githubusercontent.com/70069811/109357258-b42d6700-7860-11eb-985c-dcff37633a5a.png)
-![Shot 0004](https://user-images.githubusercontent.com/70069811/109357279-ba234800-7860-11eb-9977-5901b7aa9fd0.png)
+
+<img align="center" width="400" height="793" src="/img/Shot%200001.png">
+<img align="center" width="530" height="793" src="/img/Shot%200002.png">
+<img align="center" width="930" height="793" src="/img/Shot%200004.png">
 
 
 ## Informes do projeto original da Rockseat :rocket:
