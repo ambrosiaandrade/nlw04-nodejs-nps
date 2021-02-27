@@ -12,8 +12,8 @@ A minha alteração foi apenas no Front-End, coloquei a responsividade e mudei u
 
 <p align="center">
   <p align="inline">
-    <img width:"80%" src="/img/Shot%200001.png">&nbsp;
-    <img width:"80%" src="/img/Shot%200002.png">
+    <img height:"45%" src="/img/Shot%200001.png">&nbsp;
+    <img height:"45%" src="/img/Shot%200002.png">
   </p>
   <img src="/img/Shot%200004.png">
 </p>
