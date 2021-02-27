@@ -11,9 +11,9 @@ A minha alteração foi apenas no Front-End, coloquei a responsividade e mudei u
 ### As alterações que eu fiz:
 
 <p align="center">
-  <p align="inline">
-    <img height:"45%" src="/img/Shot%200001.png">&nbsp;
-    <img height:"45%" src="/img/Shot%200002.png">
+  <p align="inline-block">
+    <img width="49%" src="/img/Shot%200001.png">&nbsp;
+    <img width="49%" src="/img/Shot%200002.png">
   </p>
   <img src="/img/Shot%200004.png">
 </p>
@@ -21,7 +21,7 @@ A minha alteração foi apenas no Front-End, coloquei a responsividade e mudei u
 ### Como estava antes: 
 
 <p align="center">
-  <img src="/img/nlw4-mobile.png">
+  <img width="49%" src="/img/nlw4-mobile.png">
   <img src="/img/nlw4-desktop.png">
 </p>
 
